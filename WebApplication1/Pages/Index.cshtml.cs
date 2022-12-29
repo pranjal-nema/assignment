@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace WebApplication1.Pages
 {
     public class IndexModel : PageModel
-    {
+    {// comment
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
